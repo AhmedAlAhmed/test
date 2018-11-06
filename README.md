@@ -7,7 +7,8 @@ puts markdown.to_html
 ```
 
 
-## Json response
+## Create a new service
+[http://host/api/request_service](http://host/api/request_service)
 
 ```json
 {
